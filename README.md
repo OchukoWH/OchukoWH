@@ -22,7 +22,7 @@ I also love building command line tools and managing bare metal Kubernetes clust
 
 <p align="center">
   <samp>
-    With <strong>2+ years of experience as a Fullstack Engineer</strong> in the TypeScript ecosystem, I bring a strong foundation in application development to my cloud-native and infrastructure work.
+    With <strong>3+ years of experience</strong>, I bring a strong foundation in application development to my cloud-native and infrastructure work.
   </samp>
 </p>
 
@@ -138,8 +138,6 @@ I also love building command line tools and managing bare metal Kubernetes clust
 
 <p align="center">
   <samp>
-    • I run a <strong>3-node Vagrant kubeadm-bootstrapped Kubernetes cluster</strong> from my local machine for testing, experimentation, and learning.<br>
-    • I love managing bare metal Kubernetes clusters and enjoy the hands-on experience of working with physical infrastructure.<br>
     • I enjoy automating infrastructure, experimenting with CI/CD workflows, and breaking (then fixing) clusters.<br>
     • When I'm not managing systems, I'm probably hiking, cooking, or exploring distributed systems and blockchains 🌍.
   </samp>
