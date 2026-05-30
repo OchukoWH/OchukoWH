@@ -29,7 +29,7 @@ I also love building command line tools and managing bare metal Kubernetes clust
 <hr>
 
 <h2 align="center"> 
-###  Cloud Native & Infrastructure Engineering
+ Cloud Native & Infrastructure Engineering
 </h2>
 
 <p align="center">
@@ -44,7 +44,7 @@ I also love building command line tools and managing bare metal Kubernetes clust
   Linux • Containers • Kubernetes • Helm • Terraform • Ansible • Infrastructure as Code • Istio • Linkerd • Service Mesh • Networking • Prometheus • Grafana • Loki • Alertmanager
 </p>
 <h2 align="center"> 
-### ☁️ Cloud Platforms
+ Cloud Platforms
 </h2>
 
 <p align="center">
@@ -55,7 +55,7 @@ I also love building command line tools and managing bare metal Kubernetes clust
   <strong>AWS:</strong> EKS • EC2 • S3 • VPC • IAM • CloudFormation • Lambda • CloudWatch • Route53 • RDS • ECR • ECS • Fargate<br>
 </p>
 <h2 align="center"> 
-### ⚙️ CI/CD & Automation
+ CI/CD & Automation
 </h2>
 
 <p align="center">
@@ -72,7 +72,7 @@ I also love building command line tools and managing bare metal Kubernetes clust
   <strong>Container Build & Delivery:</strong> Docker • Podman
 </p>
 <h2 align="center"> 
-### 💻 Programming & Scripting
+Programming & Scripting
 </h2>
 
 <p align="center">
