@@ -26,17 +26,10 @@ I also love building command line tools and managing bare metal Kubernetes clust
   </samp>
 </p>
 
-<p align="center">
-  <strong>💼 Open for hiring - remote</strong>
-</p>
-
 <hr>
 
-<h2 align="center">🧠 Core Focus Areas</h2>
 
-<div align="center">
-
-### ☁️ Cloud Native & Infrastructure Engineering
+###  Cloud Native & Infrastructure Engineering
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -54,12 +47,10 @@ I also love building command line tools and managing bare metal Kubernetes clust
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 <p align="center">
   <strong>AWS:</strong> EKS • EC2 • S3 • VPC • IAM • CloudFormation • Lambda • CloudWatch • Route53 • RDS • ECR • ECS • Fargate<br>
-  <strong>GCP:</strong> GKE • Compute Engine • Cloud Storage • VPC • IAM • Cloud Functions • Cloud Monitoring • Cloud DNS • Cloud SQL • Cloud Run • App Engine
 </p>
 
 ### ⚙️ CI/CD & Automation
@@ -73,9 +64,9 @@ I also love building command line tools and managing bare metal Kubernetes clust
 
 <p align="center">
   <strong>GitOps:</strong> ArgoCD • FluxCD  
-  <strong>CI/CD Pipelines:</strong> GitHub Actions • GitLab CI • CircleCI • Jenkins • Argo Workflows  
+  <strong>CI/CD Pipelines:</strong> GitHub Actions • Jenkins • Argo Workflows  
   <strong>Automation:</strong> Bash scripting • Python automation • Makefiles • Ansible  
-  <strong>Container Build & Delivery:</strong> Docker • Podman • Containerd
+  <strong>Container Build & Delivery:</strong> Docker • Podman
 </p>
 
 ### 💻 Programming & Scripting
@@ -90,14 +81,14 @@ I also love building command line tools and managing bare metal Kubernetes clust
 </p>
 
 <p align="center">
-  Bash 🐚 • Python 🐍 • Go ⚙️ • Rust 🦀 <em>(learning)</em> • JavaScript 🟨 • TypeScript 🟦 <em>(Fullstack development & automation)</em>
+  Bash • Python • Go • TypeScript
 </p>
 
 </div>
 
 <hr>
 
-<h2 align="center">🛠️ Tools & Technologies</h2>
+<h2 align="center"> Tools & Technologies</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
@@ -133,12 +124,3 @@ I also love building command line tools and managing bare metal Kubernetes clust
 </p>
 
 <hr>
-
-<h2 align="center">⚡ Fun Facts</h2>
-
-<p align="center">
-  <samp>
-    • I enjoy automating infrastructure, experimenting with CI/CD workflows, and breaking (then fixing) clusters.<br>
-    • When I'm not managing systems, I'm probably hiking, cooking, or exploring distributed systems and blockchains 🌍.
-  </samp>
-</p>
