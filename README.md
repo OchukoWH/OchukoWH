@@ -28,9 +28,9 @@ I also love building command line tools and managing bare metal Kubernetes clust
 
 <hr>
 
-<p align="center">
+<h2 align="center"> 
 ###  Cloud Native & Infrastructure Engineering
-</p>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -43,9 +43,9 @@ I also love building command line tools and managing bare metal Kubernetes clust
 <p align="center">
   Linux • Containers • Kubernetes • Helm • Terraform • Ansible • Infrastructure as Code • Istio • Linkerd • Service Mesh • Networking • Prometheus • Grafana • Loki • Alertmanager
 </p>
-<p align="center">
+<h2 align="center"> 
 ### ☁️ Cloud Platforms
-</p>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -54,9 +54,9 @@ I also love building command line tools and managing bare metal Kubernetes clust
 <p align="center">
   <strong>AWS:</strong> EKS • EC2 • S3 • VPC • IAM • CloudFormation • Lambda • CloudWatch • Route53 • RDS • ECR • ECS • Fargate<br>
 </p>
-<p align="center">
+<h2 align="center"> 
 ### ⚙️ CI/CD & Automation
-</p>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
@@ -71,9 +71,9 @@ I also love building command line tools and managing bare metal Kubernetes clust
   <strong>Automation:</strong> Bash scripting • Python automation • Makefiles • Ansible  
   <strong>Container Build & Delivery:</strong> Docker • Podman
 </p>
-<p align="center">
+<h2 align="center"> 
 ### 💻 Programming & Scripting
-</p>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
