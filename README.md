@@ -1,6 +1,6 @@
 # Hi, I'm Ochuko 👋
 
-Cloud Native Engineer building cloud native tools and platforms with Kubernetes, Terraform, CI/CD and Go.
+Cloud Infrastructure Engineer building cloud native tools and platforms with Kubernetes, Terraform, CI/CD and Go.
 
 🏆 CKA | AWS SAA (In Progress) | CKS (In Progress)
 
