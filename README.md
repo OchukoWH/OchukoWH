@@ -3,6 +3,7 @@
 Cloud Infrastructure Engineer building cloud native tools and platforms with Kubernetes, Terraform, CI/CD and Go.
 
 🏆 Certified Kubernetes Administrator
+🏆 AWS Solutions Architect Associate
 
 📍 Lagos, Nigeria (UTC+1)
 
@@ -10,6 +11,6 @@ Cloud Infrastructure Engineer building cloud native tools and platforms with Kub
 
 💼 LinkedIn: https://linkedin.com/in/ochuko-whoro-214b6328b
 
-📫 Email: [hello@ochukowhoro.com](mailto:hello@ochukowhoro.com)
+📫 Email: [whoroochuko@gmail.com](mailto:whoroochuko@gmail.com)
 
 Site: https://www.ochukowhoro.com
